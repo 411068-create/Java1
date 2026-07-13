@@ -1,0 +1,8 @@
+name: AncientTerritory
+version: 1.0
+main: com.myname.territory.TerritoryPlugin
+api-version: 1.20
+commands:
+  land:
+    description: 土地行政主要指令
+    usage: /land [claim/info]
